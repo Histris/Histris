@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Histris
+- 👋 Hi, I’m @Histris (Loic YE)
+- 🏫 I'm currently a student at EPITECH - European Institute of Technology
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ...
+- 🏢 I’m looking for a 6 months internship
 - 📫 How to reach me ...
 
 <!---
