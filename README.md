@@ -3,7 +3,9 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning C
 - 🏢 I’m looking for a 6 months internship
-- 📫 How to reach me ...
+- 📫 How to reach me :
+    - Linkedin : https://www.linkedin.com/in/loic-ye/
+    - Email : loic.ye@epitech.eu
 
 <!---
 Histris/Histris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
